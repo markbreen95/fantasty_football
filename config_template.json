@@ -1,0 +1,7 @@
+{
+    "password": "PASSWORD",
+    "login": "EMAIL",
+    "redirect_uri": "https://fantasy.premierleague.com/a/login",
+    "app": "plfpl-web",
+    "team_id": "TEAM_ID"
+}
